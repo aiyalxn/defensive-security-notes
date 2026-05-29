@@ -1,3 +1,5 @@
+This repository is maintained for defensive cybersecurity learning, blue team operations, detection engineering, and authorized internal security work only.
+
 # Awesome Cybersecurity Blue Team [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
